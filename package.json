@@ -4,5 +4,25 @@
   },
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "name": "jest-another-team-inquiry",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LSabin23/jest-another-team-inquiry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LSabin23/jest-another-team-inquiry/issues"
+  },
+  "homepage": "https://github.com/LSabin23/jest-another-team-inquiry#readme"
 }
